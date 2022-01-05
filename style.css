@@ -1,0 +1,60 @@
+body{
+    font-family: 'Krona One', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+h3{
+    font-size: 25px;
+    color: olivedrab;
+}
+p{
+    text-align: justify;
+}
+#jungle{
+    color: green;
+}
+.container{
+    display: flex;
+    padding-bottom: 100px;
+}
+.half-area{
+    width: 50%;
+    padding-left: 5px;
+}
+.half-area img{
+    width: 95%;
+    padding-left: 20px;
+    padding-top: 10px;
+}
+.link{
+    text-decoration: none;
+    background-color:olivedrab ;
+    padding: 10px 20px;
+    color: wheat;
+    border-radius: 10px;
+}
+#center{
+    text-align: center;
+    color: olivedrab;
+}
+.item{
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 10px;
+    box-shadow: 12px 12px 30px grey;
+    border-radius: 20px;
+}
+.web-dev{
+    font-size: 25px;
+    color: purple;
+    text-align: center;
+}
+.small{
+    font-size: 15px;
+    text-align: center;
+}
+.exp{
+    padding: 10px 15px;
+}
